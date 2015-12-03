@@ -2,7 +2,7 @@
 Android VectorDrawable and AnimatedVectorDrawable Sample
 =========================================================
 
-A sample project the demonstrates how to use the VectorDrawable and AnimatedVectorDrawable classes. 
+A sample project that demonstrates how to use the VectorDrawable and AnimatedVectorDrawable classes. 
 
 
 Pre-requisites
